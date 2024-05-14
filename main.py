@@ -8,5 +8,5 @@ def subtraction(a, b, c):
 def div(a, b):
   return a/b
 
-def multi(a, b, c, e):
-  return a*b*c*e
+def multi(a, b, c, d, e):
+  return a*b*c*d*e
